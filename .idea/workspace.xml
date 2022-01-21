@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4578af1-4222-4dc6-9174-93566546e4f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EMIR_DZ2_09.01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="23jkdH5mRysRejoPiXD84G7RIco" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4578af1-4222-4dc6-9174-93566546e4f3" name="Default Changelist" comment="" />
+      <created>1642254968490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642254968490</updated>
+      <workItem from="1642254969918" duration="917000" />
+      <workItem from="1642256686719" duration="1988000" />
+      <workItem from="1642258785481" duration="1562000" />
+      <workItem from="1642260404235" duration="7327000" />
+      <workItem from="1642269933442" duration="2592000" />
+      <workItem from="1642296487886" duration="674000" />
+      <workItem from="1642346803287" duration="2229000" />
+      <workItem from="1642353306807" duration="22000" />
+      <workItem from="1642353375795" duration="38000" />
+      <workItem from="1642353928810" duration="345000" />
+      <workItem from="1642354340505" duration="1665000" />
+      <workItem from="1642507926758" duration="18000" />
+      <workItem from="1642514470627" duration="203000" />
+      <workItem from="1642515044174" duration="1343000" />
+      <workItem from="1642516624125" duration="202000" />
+      <workItem from="1642516889784" duration="135000" />
+      <workItem from="1642517062091" duration="177000" />
+      <workItem from="1642517296280" duration="3505000" />
+      <workItem from="1642520841341" duration="5107000" />
+      <workItem from="1642700460485" duration="96000" />
+      <workItem from="1642700615859" duration="55000" />
+      <workItem from="1642700701837" duration="125000" />
+      <workItem from="1642700855105" duration="203000" />
+      <workItem from="1642701188440" duration="916000" />
+      <workItem from="1642702192284" duration="44000" />
+      <workItem from="1642702271922" duration="1085000" />
+      <workItem from="1642703589812" duration="144000" />
+      <workItem from="1642703838203" duration="667000" />
+      <workItem from="1642766915712" duration="73000" />
+      <workItem from="1642772041538" duration="1024000" />
+      <workItem from="1642773297781" duration="74000" />
+      <workItem from="1642773417864" duration="37000" />
+      <workItem from="1642773518262" duration="2920000" />
+      <workItem from="1642776497453" duration="2422000" />
+      <workItem from="1642779090642" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1642778942971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1642778942971" />
+    <state x="567" y="90" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1642255126715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="567" y="90" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1642255126715" />
+  </component>
+</project>
